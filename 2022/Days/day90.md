@@ -121,7 +121,4 @@ I also know that we need to revisit each post and make sure everything is gramma
 As always keep the issues and PRs coming.
 
 Thanks!
-@MichaelCade1
-
-- [GitHub](https://github.com/MichaelCade)
-- [Twitter](https://twitter.com/MichaelCade1)
+@Vikash
